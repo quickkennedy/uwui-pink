@@ -728,7 +728,7 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	 "r400-3"
-		"ypos"	 "18"
+		"ypos"	 "1"
 		"wide"	 "400"
 		"tall"	 "f18"
 

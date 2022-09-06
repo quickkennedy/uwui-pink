@@ -951,15 +951,15 @@
 		"tall"	 "480"
 	}
 	
-	HudScopeCharge
+	"HudScopeCharge"
 	{
-		"fieldName" "HudScopeCharge"
-		"visible" "1"
-		"enabled" "1"
-		"xpos"	 "c64"
-		"ypos"	 "c-64"
-		"wide"	 "64"
-		"tall"	 "128"
+		"fieldName"	"HudScopeCharge"
+		"visible" 	"1"
+		"enabled" 	"1"
+		"xpos"		"cs-0.5"
+		"ypos"	 	"c-16"
+		"wide"	 	"64"
+		"tall"	 	"128"
 	}
 	
 	HudVoiceSelfStatus
